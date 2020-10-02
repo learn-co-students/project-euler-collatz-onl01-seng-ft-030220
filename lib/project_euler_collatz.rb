@@ -1,4 +1,5 @@
 def even_next(n)
+    
 end
 
 def odd_next(n)
